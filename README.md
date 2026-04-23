@@ -1,15 +1,32 @@
-# React App
+#  E-commerce Site (React Frontend)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern e-commerce frontend application built with React. This project focuses on building a responsive, user-friendly shopping interface with product listing, cart management, and API integration support.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+##  Features
 
-### `npm start`
+- Product listing page with dynamic UI
+- Product details page
+- Shopping cart functionality
+- Add / remove / update quantity in cart
+- Responsive design (mobile + desktop)
+- Search and filter products
+- API integration ready (backend agnostic)
+- Clean component-based architecture
 
-### Description
-REACT JS app
+---
+
+##  Tech Stack
+
+- React.js
+- JavaScript (ES6+)
+- React Router
+- Context API / Redux (if used)
+- Axios (for API calls)
+- HTML / CSS / Bootstrap / Tailwind (as applicable)
+
+---
 ![ScreenShot Tool -20240529123135](https://github.com/nidadev/ecomerce_react/assets/53574300/a3a51ee6-7b72-40de-861c-86ca7dbf8708)
 
 
